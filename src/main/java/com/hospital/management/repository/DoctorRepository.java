@@ -1,4 +1,4 @@
-package com.hospital.management.repositories;
+package com.hospital.management.repository;
 
 import com.hospital.management.models.Doctor;
 import org.springframework.data.jpa.repository.JpaRepository;

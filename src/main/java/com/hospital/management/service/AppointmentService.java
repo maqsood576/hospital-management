@@ -1,7 +1,7 @@
 package com.hospital.management.service;
 
 import com.hospital.management.models.Appointment;
-import com.hospital.management.repositories.AppointmentRepository;
+import com.hospital.management.repository.AppointmentRepository;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
